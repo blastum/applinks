@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "2T5BCL5R5M.com.blastum.james.applinks",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
+
